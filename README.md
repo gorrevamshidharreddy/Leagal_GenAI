@@ -20,7 +20,6 @@ Key Features
  Tech Stack
 - Frontend: Streamlit  
 - Backend & NLP: Python  
-- GenAI: OpenAI GPT models (for legal reasoning)  
 - Document Parsing: pdfplumber, python-docx  
 - PDF Export: FPDF  
 - Deployment: Streamlit Cloud  
